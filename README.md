@@ -14,7 +14,7 @@
             <a class="ai-header-badge" target="_blank" href="https://twitter.com/madewithml">
             <img class="ai-header-badge-img" src="https://img.shields.io/twitter/follow/madewithml.svg?label=Follow&style=social">
             </a>
-            <p>🔥Among the <a href="https://github.com/topics/deep-learning" target="_blank">top 10</a> ML repos on GitHub</p>
+            <p>🔥 Among the <a href="https://github.com/topics/deep-learning" target="_blank">top 10</a> ML repos on GitHub</p>
         </div>
         <ul>
             <li>Learn Python basics with notebooks.</li>
@@ -95,11 +95,4 @@
 </ul>
 
 ## Next Steps
-As you learn ML, it's important to work on projects, so check out <a href="https://madewithml.com">Made With ML</a> for inspiration and to create a profile to showcase your own projects! **Showcase your projects** because everyone has Coursera, Kaggle, and fastai on their resumes so you need to differentiate yourself by showing what you can do using those fantastic resources.
-
-Thousands of users also use MWML to:<br>
-• 📆 <b>Discover</b> trending [Projects](https://madewithml.com/projects/).<br>
-• 🔖 <b>Organize</b> the content they find interesting into [Collections](https://madewithml.com/collections/).<br>
-• 📚 <b>Learn</b> using the best, community curated, resources for any [Topic](https://madewithml.com/topics/).
-
-[Sign up for your free account →](https://madewithml.com)
+It's not enough just to learn about machine learning algorithms but you also need to learn how to apply it and deliver (actual) value. So be sure to check out our latest course: [Applied ML in Production](https://madewithml.com/courses/applied-ml-in-production/)
